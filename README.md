@@ -6,7 +6,7 @@
 I'm a **Full Stack Developer** with a passion for creating web application. I write **clean, understandable and maintanable code**.I specialize in building responsive web applications and am constantly exploring new technologies and improving my coding skills.
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](www.linkedin.com/in/rohith-achar-bbb189311)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/rohith-achar-bbb189311)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/your-twitter)
 
 ## 🛠️ Tech Stack
