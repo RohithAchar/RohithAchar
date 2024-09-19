@@ -10,10 +10,20 @@ I'm a **Full Stack Developer** with a passion for creating web application. I wr
 [![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/your-twitter)
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Hono, Cloudflare Workers
-- **Databases:** PostgreSQL, Prisma ORM
-- **Tools:** , Git, Zustand
+- **Frontend:**
+  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+  - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+  - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+- **Backend:**
+  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+  - ![Hono](https://img.shields.io/badge/-Hono-000000?logo=github&logoColor=white)
+  - ![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-F38020?logo=cloudflare&logoColor=white)
+- **Databases:**
+  - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+  - ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+- **Tools:**
+  - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+  - ![Zustand](https://img.shields.io/badge/-Zustand-FF00D6?logo=github&logoColor=white)
 
 ## 💼 Projects
 - **[E-commerce Admin](https://e-commerce-admin-lovat-kappa.vercel.app/):** Admin panel for managing an e-commerce platform with features for store management and product listings.
