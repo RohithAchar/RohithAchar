@@ -3,10 +3,10 @@
 
 ## **I'm Rohith Achar**
 
-I'm a **Full Stack Developer** with a passion for creating web application. I write clean, understandable and maintanable code.I specialize in building responsive web applications and am constantly exploring new technologies and improving my coding skills.
+I'm a **Full Stack Developer** with a passion for creating web application. I write **clean, understandable and maintanable code**.I specialize in building responsive web applications and am constantly exploring new technologies and improving my coding skills.
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](www.linkedin.com/in/rohith-achar-bbb189311)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/your-twitter)
 
 ## 🛠️ Tech Stack
@@ -16,9 +16,9 @@ I'm a **Full Stack Developer** with a passion for creating web application. I wr
 - **Tools:** , Git, Zustand
 
 ## 💼 Projects
-- **[E-commerce Platform](https://github.com/your-repo):** Full-stack e-commerce app with store management, product listings, and CMS features.
-- **[Knight's Travail](https://github.com/your-knight-repo):** A pathfinding game using the BFS algorithm to move a knight on an 8x8 grid.
-- **[Music Application](https://github.com/your-music-app):** Collaborative music room where users vote on YouTube songs to play next.
+- **[E-commerce-admin]([https://github.com/your-repo](https://e-commerce-admin-lovat-kappa.vercel.app/1cf3b91c-85d5-49aa-ad50-79f4fe0ceaa8)):** Full-stack e-commerce admin.
+- **[E-commerce-store]([https://github.com/your-repo][(https://e-commerce-admin-lovat-kappa.vercel.app/1cf3b91c-85d5-49aa-ad50-79f4fe0ceaa8)](https://e-commerce-store-six-pearl.vercel.app/)):** Full-stack e-commerce store.
+- **[Knight's Travail]([https://github.com/your-knight-repo](https://rohithachar.github.io/Knights-Travails/)):** A pathfinding game using the BFS algorithm to move a knight on an 8x8 grid.
 
 ## 🗣️ Used tools
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohithAchar&layout=compact&theme=radical)
