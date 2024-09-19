@@ -16,9 +16,9 @@ I'm a **Full Stack Developer** with a passion for creating web application. I wr
 - **Tools:** , Git, Zustand
 
 ## 💼 Projects
-- **[E-commerce-admin]([https://github.com/your-repo](https://e-commerce-admin-lovat-kappa.vercel.app/1cf3b91c-85d5-49aa-ad50-79f4fe0ceaa8)):** Full-stack e-commerce admin.
-- **[E-commerce-store]([https://github.com/your-repo][(https://e-commerce-admin-lovat-kappa.vercel.app/1cf3b91c-85d5-49aa-ad50-79f4fe0ceaa8)](https://e-commerce-store-six-pearl.vercel.app/)):** Full-stack e-commerce store.
-- **[Knight's Travail]([https://github.com/your-knight-repo](https://rohithachar.github.io/Knights-Travails/)):** A pathfinding game using the BFS algorithm to move a knight on an 8x8 grid.
+- **[E-commerce Admin](https://e-commerce-admin-lovat-kappa.vercel.app/):** Admin panel for managing an e-commerce platform with features for store management and product listings.
+- **[E-commerce Store](https://e-commerce-store-six-pearl.vercel.app/):** Frontend for the e-commerce platform where users can browse and purchase products.
+- **[Knight Travail](https://rohithachar.github.io/Knights-Travails/):** A pathfinding game where players navigate a knight across an 8x8 grid using the BFS algorithm.
 
 ## 🗣️ Used tools
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohithAchar&layout=compact&theme=radical)
