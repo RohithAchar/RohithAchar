@@ -11,9 +11,7 @@ I'm a **Full Stack Developer** with a passion for creating web application. I wr
 
 ## 🛠️ Tech Stack
 - **Frontend:**
-  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-  - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
-  - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 - **Backend:**
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
   - ![Hono](https://img.shields.io/badge/-Hono-000000?logo=github&logoColor=white)
