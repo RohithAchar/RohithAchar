@@ -20,4 +20,5 @@ I'm a **Full Stack Developer** with a passion for creating web application. I wr
 - **[Knight's Travail](https://github.com/your-knight-repo):** A pathfinding game using the BFS algorithm to move a knight on an 8x8 grid.
 - **[Music Application](https://github.com/your-music-app):** Collaborative music room where users vote on YouTube songs to play next.
 
-![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohithAchar&show_icons=true&theme=radical)
+## 🗣️ Used tools
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohithAchar&layout=compact&theme=radical)
