@@ -7,7 +7,6 @@ A **Full Stack Developer** with a passion for creating web application. I write 
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/rohith-achar-bbb189311)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/your-twitter)
 
 ## 🛠️ Tech Stack
 - **Frontend:**
